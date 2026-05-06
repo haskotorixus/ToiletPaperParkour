@@ -4,4 +4,3 @@
 Content/Characters/** filter=lfs diff=lfs merge=lfs -text
 Content/LevelPrototyping/** filter=lfs diff=lfs merge=lfs -text
 Content/StarterContent/** filter=lfs diff=lfs merge=lfs -text
-Content/Thirdperson/** filter=lfs diff=lfs merge=lfs -text
